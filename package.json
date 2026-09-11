@@ -1,0 +1,13 @@
+{
+  "name": "reuniontime-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http-proxy-middleware": "^3.0.3",
+    "express": "^4.21.2"
+  }
+}
